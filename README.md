@@ -1,4 +1,4 @@
-# Vechile-Number-plate-Detection
+# Vehicle-Number-plate-Detection
 
 License plate detection is a type of image processing that uses a licence (number) plate to identify a vehicle. The goal is to create and deploy an efficient vehicle identification system that uses the car’s licence plate to identify the vehicle. This project may be used at toll gates to determine if automobiles have quick tags and whether or not an invalid intimation has been sent. Prepaid parking members can easily be distinguished from non-paying members, and if an invalid notification is sent, etc. to keep track of incoming and leaving cars. It may be used to restrict entry to only those cars that are allowed on the grounds. The created system takes a picture of the vehicle’s front end, recognises the licence plate, and then reads the plate.
   The vehicle license plate is extracted using the image processing of the image. Optical character recognition (OCR) is used for character recognition. The system is implemented using OpenCV and its performance is tested on various images. It is observed that the developed system successfully detects and recognizes the vehicle license plate.
